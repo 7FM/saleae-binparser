@@ -1,6 +1,7 @@
 # Prerequisites
 *.d
 example
+*.vcd
 
 # Object files
 *.o
